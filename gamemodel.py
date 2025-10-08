@@ -1,5 +1,5 @@
 from math import sin,cos,radians
-import random
+import random cock
 
 #TODO: Deal with all TODOs in this file and also remove the TODO and HINT comments.
 
